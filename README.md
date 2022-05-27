@@ -32,3 +32,15 @@ A bit about the technologies used in the project.
 Regarding the UDP & TCP choices, this was done in order to have a chance to practive and understand the diferences btween them.
 TCP - two way communication 
 UDP - one way communication
+
+
+Hardware in this project:
+1. RF 433 mhz Transmitter 
+2. RF 433 mhz receiver ( the same modules i used in my electric skeateboard project for the controller )
+3. Arduino nano
+4. Arduino uno
+5. Joystick breaker board for arduino
+6. 3 Computers for testing the Socket parts. (Win11, MacOS, Linux(wsl2 & RPI4)
+
+* I may connect the system to drive the Tank project that is currentky awates parts to arrive, so keep checking this project.
+
